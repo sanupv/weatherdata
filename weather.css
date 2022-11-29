@@ -1,4 +1,6 @@
 body{
     background-image: url("./images/gd.jpg");
     background-size: cover;
+    display: flex;
+    position: relative;
   }
